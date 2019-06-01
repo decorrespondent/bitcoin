@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *.mtgl
 maltego/
+config.py
