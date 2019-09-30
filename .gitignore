@@ -2,3 +2,5 @@
 *.mtgl
 maltego/
 config.py
+literature/
+data/
