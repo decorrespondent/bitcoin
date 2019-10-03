@@ -1,11 +1,11 @@
 # Cryptocurrency research
 
-This repo contains some notebooks and code for our project on cryptocurrencies. The project is divided in several parts. 
+This repo contains some notebooks and code for our project on cryptocurrencies. This project is work in progress and divided in several parts. 
 
 1. Market data
 2. Crime data
 
-## 1 Market data
+## 1. Market data
 
 Here you will find some notebooks with market data on cryptocurrencies. There are a couple of data aggregators in the cryptocurrency space that provide API access to a wealth of market, coin and token data. This data can be used to get a sense of how the market works, the parties involved and the wider ecology of the cryptocurrency space. 
 
@@ -14,7 +14,7 @@ There is still a lot to do. These are the most important and obvious steps:
 2. Visualize the ecosystem of exchanges, mixers, miners, developers, and other platforms. And get data on all of these parties.
 3. Get market data on pump and dump schemes and price manipulation.
 
-## Crime data
+## 2. Crime data
 
 This is a bit of a misnomer, but the idea behind the notebooks are that we can analyze the bitcoin blockchain for fraudulent use of the cryptocurrency. Also - and this is the misnomer part - we try to get more information about people who use bitcoin or other cryptocurrencies as an alternative source of revenue or funding, since they are banned from mainstream platforms like PayPal or Patreon. These people are often right wing political activists and I wouldn't want to suggest that they are involved in criminal activities. The analytical tools are the same though as we use with criminal investigations, so they are part of this branch. 
 
