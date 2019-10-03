@@ -4,3 +4,4 @@ maltego/
 config.py
 literature/
 data/
+__pycache__/
